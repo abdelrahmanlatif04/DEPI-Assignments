@@ -44,7 +44,7 @@ form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 5px;
+  gap: 20px;
 }
 .cont{
     display: flex;
